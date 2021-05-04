@@ -17,8 +17,8 @@
         <properties>
             <!-- Configuracoes do banco de dados -->
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/digital_innovation_one" />
-            <property name="javax.persistence.jdbc.user" value="root" />
-            <property name="javax.persistence.jdbc.password" value="password" />
+            <property name="javax.persistence.jdbc.user" value="nei" />
+            <property name="javax.persistence.jdbc.password" value="Senha#2020" />
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
         </properties>
 
@@ -43,8 +43,8 @@
         <properties>
             <!-- Configuracoes do banco de dados -->
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/digital_innovation_one" />
-            <property name="javax.persistence.jdbc.user" value="root" />
-            <property name="javax.persistence.jdbc.password" value="password" />
+            <property name="javax.persistence.jdbc.user" value="nei" />
+            <property name="javax.persistence.jdbc.password" value="Senha#2020" />
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
 
             <!-- Configuracoes do Hibernate (os parametros so sao reconhecidos se estiver usando a implementacao do Hibernate)-->
