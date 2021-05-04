@@ -14,8 +14,8 @@ public class ConnectionJDBC {
         String driver = "mysql";
         String dataBaseAddress = "localhost";
         String dataBaseName = "digital_innovation_one";
-        String user = "root";
-        String password = "password";
+        String user = "nei";
+        String password = "Senha#2020";
 
         // 3 - Construção da string de conexão.
         StringBuilder sb = new StringBuilder("jdbc:")
